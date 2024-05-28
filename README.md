@@ -1,6 +1,8 @@
-## Hi there 👋
-
-<!--
+## meu nome e graziele marinho oliveira 
+## estou estudando na alura 
+## estou me desenvolvenda na linguagem javacript  
+##utilizo esse espaco para  minha organizacao e compartilhamento dos meus projetos desenvolvidos
+<!--   
 **grazimarinho/grazimarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
